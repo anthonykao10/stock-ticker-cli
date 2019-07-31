@@ -1,0 +1,17 @@
+{
+  "name": "stock-ticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "stock-ticker": "./cli.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
