@@ -12,6 +12,7 @@
     "stock-ticker": "./cli.js"
   },
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "ora": "^3.4.0"
   }
 }
